@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_tambah</name>
+   <tag></tag>
+   <elementGuidId>56cf8211-aaa0-4730-9f61-02c5950f2749</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>34ccdd06-a746-419c-a1ba-048e8e58c024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images/button_tambah.gif</value>
+      <webElementGuid>9e1c03ea-f109-43f4-9c9f-4668d57e6159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>border</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>74a85bbf-b9ef-48d9-bc18-a157077aeda8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/table[1]/tbody[1]/tr[2]/td[1]/table[@class=&quot;default&quot;]/tbody[1]/tr[1]/td[1]/a[1]/img[1]</value>
+      <webElementGuid>792766be-05e3-4934-86a5-b7b99417817e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/page_tambah_kategori/iframe_Tester_title</value>
+      <webElementGuid>f71c4fff-8b17-4e3d-a165-e43e1b4003aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/img</value>
+      <webElementGuid>c8368967-a5ab-4942-8974-ed549b6e9250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/images/button_tambah.gif']</value>
+      <webElementGuid>0c17ade1-6b4e-44dd-bd05-0ad6e52927ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

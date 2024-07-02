@@ -5,4 +5,43 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>7bc97a72-f3d8-4b20-8c8b-16390ccd9b45</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>efa8c68b-2dc7-4f6b-85ee-3b6f84a285be</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b76f7a82-55bc-4602-b996-0ca3f96653d0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>adf8e460-a20f-4ed6-baad-83216bb9591b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'arijona\t\r\n'</defaultValue>
+      <description></description>
+      <id>efa8c68b-2dc7-4f6b-85ee-3b6f84a285be</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password\r\n'</defaultValue>
+      <description></description>
+      <id>b76f7a82-55bc-4602-b996-0ca3f96653d0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>adf8e460-a20f-4ed6-baad-83216bb9591b</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
 </TestCaseEntity>

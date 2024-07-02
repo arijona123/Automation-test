@@ -4,6 +4,20 @@
    <name>field_username</name>
    <tag></tag>
    <elementGuidId>779fa4e5-571c-4f2e-8b1c-e87d3f987143</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>username</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>4fc778b5-e657-4dbd-ad2f-260f5426028c</webElementGuid>
+   </webElementProperties>
 </WebElementEntity>

@@ -19,9 +19,21 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(GlobalVariable.url)
 
-WebUI.setText(findTestObject('Page Login/field_username'), username)
+WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Page Login/field_password'), password)
+WebUI.delay(2)
 
-WebUI.click(findTestObject('Page Login/button_login'))
+WebUI.takeFullPageScreenshot()
+
+WebUI.setText(findTestObject('page login fix/field_username'), GlobalVariable.username)
+
+WebUI.setText(findTestObject('page login fix/field_password'), GlobalVariable.password)
+
+WebUI.takeFullPageScreenshot()
+
+WebUI.click(findTestObject('page login fix/button_Login'))
+
+WebUI.delay(5)
+
+WebUI.takeFullPageScreenshot()
 

@@ -6,7 +6,17 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://phiraka.com/'</initValue>
+      <initValue>'http://old-demo.securehr.net/'</initValue>
       <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Q01157'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'phiR0@2016'</initValue>
+      <name>password</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
